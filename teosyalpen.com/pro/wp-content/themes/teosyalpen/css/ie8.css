@@ -1,0 +1,46 @@
+.loader {
+    display: none;
+}
+.homeSlide  , .rond, .part5 .slidemob5, .part5 .slide, .echelleh, .slideimg, .filairebg   {
+    background-size: cover;
+    /* The url is relative to the document, not to the css file! */
+    /* Prefer absolute urls to avoid confusion. */
+    //-ms-behavior: url('/pro/wp-content/themes/teosyalpen/css/backgroundsize.min.htc');
+	display:block!important;
+}
+
+.part5 .zone .norm:hover {
+	opacity: 1;
+}
+*   {
+	//z-index:2;
+} 
+.background-size-polyfill   {
+	//z-index:0!important;
+} 
+/*
+#superContainer {
+	width:800px;	
+	margin:auto;
+}*/
+.footer {
+    /*bottom: 0;
+    position: static;*/
+}
+/*
+.hsContainer  , .rond, .part5 .slidemob5, .part5 .slide, .echelleh, .slideimg, .filairebg   {
+    background-size: cover;
+    -ms-behavior: url('/css/backgroundsize.min.htc');
+
+}*/
+
+
+
+
+/*
+.content {
+    position: relative;
+}
+.footer {
+    position: relative;
+}*/

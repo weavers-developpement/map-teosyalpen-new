@@ -1,0 +1,135 @@
+.loader .center {
+    background-size: 439px 1px;
+}
+.part6 {
+}
+.part1 {
+}
+.part2 {
+}
+.part2 .center {
+    background-size: 491px 220px;
+}
+.part2 .center .ha {
+    background-size: 258px 257px;
+}
+.rond {
+}
+.rond.intersested {
+}
+.part3, .loader {
+}
+.center .is {
+    background-size: 49px 49px;
+}
+.loader .traitblanc {
+    background-size: 146px 2px;
+}
+.part3 h3 {
+    background-size: 146px 2px;
+}
+.part3 .right h3 {
+    background-size: 146px 2px;
+}
+@media (min-width: 980px) and (max-width: 1199px) {
+.part3 h3, .part3 .right h3 {
+    background-size: 73px 2px;
+}
+}
+.part4 {
+}
+.slide .slidec {
+    background-size: 71px 49px;
+}
+.slide .slidetop {
+    background-size: 71px 49px;
+}
+.slideh {
+    background-size: 71px 49px;
+}
+.part5 {
+}
+.part5 .bullec {
+}
+.drag {
+    background-size: 27px 600px;
+}
+.teosyalpen3d {
+    background: none repeat scroll 0 0 #fff;
+}
+.grams {
+    background-size: 30px 32px;
+}
+.echelleh .dessin {
+}
+.echellev .dessin {
+}
+.part7 {
+}
+.menu li a span.picto {
+    background-size: 43px 44px;
+}
+.menu li a span.picto.hov {
+    background-size: 43px 44px;
+}
+.menu li a span.home, .menu li a span.picto.hov span.home {
+    background-size: 28px 24px;
+}
+.menu li a span.market, .menu li a span.picto.hov span.market {
+    background-size: 25px 19px!important;
+}
+.menu li a span.product, .menu li a span.picto.hov span.product {
+    background-size: 18px 29px;
+}
+.menu li a span.experts, .menu li a span.picto.hov span.experts {
+   /* background-size: 24px 19px;*/
+    background-size: 30px auto!important;
+}
+.menu li a span.injection, .menu li a span.picto.hov span.injection {
+   /* background-size: 19px 29px;*/
+    background-size: 21px 25px;
+}
+.menu li a span.technology, .menu li a span.picto.hov span.technology {
+    background-size: 18px 27px;
+}
+.menu li a span.meet-us, .menu li a span.picto.hov span.meet-us {
+    background-size: 33px 24px;
+}
+.menurs li a span.picto {
+    background-size: 33px 33px;
+}
+.menurs li a span.picto.hov {
+    background-size: 33px 33px;
+}
+.menurs li a span.facebook {
+    background-size: 10px 21px;
+}
+.menurs li a span.twitter {
+    background-size: 19px 15px;
+}
+.part5 .slideimg1 {
+    background-size: 640px 1023px;
+}
+.part5 .slideimg2 {
+    background-size: 640px 1023px;
+}
+.part5 .slideimg3 {
+    background-size: 640px 1023px;
+}
+.next {
+    background-size: 58px 58px;
+}
+.drag div {
+    background-size: 62px 62px;
+}
+.homeSlide, .part5 .slidemob5, .part5 .slide, .echelleh, .part5 .slideimg, .filairebg, .loader {
+    background-size: cover !important;
+}
+
+
+
+@media (max-width: 1199px) {
+.part2 {
+   // background-size: 120% auto !important;
+}
+}

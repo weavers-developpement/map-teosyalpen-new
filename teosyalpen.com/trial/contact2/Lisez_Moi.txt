@@ -1,0 +1,26 @@
+Formail +
+
+Script écrit par Loïc Bresler
+webmaster@webfr.org
+Utilise une partie la classe Mail écrite par Léo West
+
+Ce script met un formulaire sur son site qui permet aux visiteurs d'envoyer un email au webmaster
+via un formulaire.
+La nouveauté est que ce script permet au visiteur de mettre un fichier joint avec son message.
+Le fichier joint est uploadé sur le serveur puis détruit une fois le mail envoyé.
+
+F.A.Q et Démo ici:
+http://www.webfr.org/index.php?frame=indexphp.php&url=webmaster/formail.html
+
+INSTALLATION
+
+Ce script ne fonctionne pas sous Online ou Nexen (et ne fonctionnera d'ailleurs jamais sur ces serveurs. J'ai
+tout essayé et j'ai contacté le support technique, ils ont tellement bien modifié leur fonction email()
+qu'il est impossible de l'utiliser avec ce script)
+
+Créer un répertoire et uploader les deux fichiers dedans
+Dans le fichier formail.php remplacer dans la ligne $dest="..." l'adresse email par la votre
+
+Créer un répertoire "upload" au même niveau que le répertoire que vous avez créé (pas dedans, à côté :-) )
+
+Et voila...

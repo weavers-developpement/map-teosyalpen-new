@@ -1,0 +1,12 @@
+bower_components/
+node_modules/
+.DS_Store
+.settings/
+.buildpath/
+.project
+.svn/
+.buildpath
+html/files/advanced-cache.php
+html/files/cache/
+html/files/upgrade/
+html/files/wp-rocket-config/

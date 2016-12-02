@@ -1,0 +1,508 @@
+@import "animate.css";
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,700);
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css);
+/*========================================================
+						Includes
+=========================================================*/
+/*========================================================
+					  Main Styles
+=========================================================*/
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #707068;
+  background: #FBFBFB;
+  -webkit-text-size-adjust: none;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+h1,
+h2,
+h4,
+h5,
+h6 {
+  color: #584a3e;
+}
+h2 {
+  font-size: 65px;
+  line-height: 60px;
+  font-weight: 400;
+}
+@media (max-width: 767px) {
+  h2 {
+    font-size: 38px;
+    line-height: 50px;
+  }
+}
+h3 {
+  font-size: 30px;
+  line-height: 0px;
+  font-weight: 400;
+}
+@media (max-width: 979px) {
+  h3 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+}
+h4 {
+  font-size: 24px;
+  line-height: 28px;
+  font-weight: 400;
+  color: #d2c970;
+}
+h5 {
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  color: #d2c970;
+}
+p a:hover {
+  text-decoration: underline;
+}
+a {
+  font: inherit;
+  color: inherit;
+  text-decoration: none;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+a:active {
+  background: transparent;
+}
+a:focus {
+  outline: none;
+}
+a[href^="tel:"] {
+  color: inherit;
+  text-decoration: none;
+}
+.fa {
+  line-height: inherit;
+}
+[class*='fa-']:before {
+  font-weight: 400;
+  font-family: 'FontAwesome';
+}
+.left {
+  text-align: left;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.page {
+  overflow: hidden;
+  min-height: 500px;
+}
+.lt-ie9 .page {
+  min-width: 1200px;
+}
+
+div {
+    display: block;
+}
+
+.container {
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.promo.no-rightbar {
+    width: 100%;
+    min-width: 100%;
+    height: 100%;
+}
+
+.promo {
+    height: 100%;
+    min-height: 100%;
+    text-shadow: 0 1px 3px rgba(0,0,0,.2);
+    color: #fff;
+    display: table;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.intropromo {
+    display: table-cell;
+    vertical-align: bottom;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.col1, .col2 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+sup {
+    font-size: smaller;
+    vertical-align: super;
+}
+
+@media (min-width: 992px) {
+.promo {
+    padding: 50px;
+}
+}
+
+@media (min-width: 1200px) {
+.col1 .offset {
+    margin-left: 8.33333333%;
+}
+}
+
+@media (min-width: 1200px) {
+.col1 {
+    width: 25%;
+	float: left;
+}
+}
+
+@media (min-width: 1200px) {
+.col2 {
+    width: 30%;
+	float: left;
+}
+}
+
+@media (min-width: 1200px) {
+.col1, .col2, {
+    float: left;
+}
+}
+
+@media (min-width: 992px){
+.col-md-7 {
+    width: 58.33333333%;
+}
+}
+
+@media (min-width: 992px) {
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+}
+
+
+
+/*=======================================================
+						Components
+=========================================================*/
+
+/*==================   Parallax    ======================*/
+.parallax {
+  background-position: center 0;
+  background-repeat: no-repeat;
+  /*background-size: cover;*/
+  color: #ffffff;
+}
+.mobile .parallax,
+.tablet .parallax {
+  background-position: 20% 0 !important;
+}
+.parallax h1,
+.parallax h2,
+.parallax h4,
+.parallax h6 {
+  color: #ffffff;
+}
+.parallax01 {
+  background-color: #FBFBFB;
+  background-image: url(../images/parallax01.png);
+  padding: 20px 0 10px;
+}
+
+
+
+@media (max-width: 1200px) {
+  .parallax01 {
+    padding: 160px 0 120px;
+  }
+}
+.parallax02 {
+  background-color: #FFF;
+  background-image: url(../images/parallax02.jpg);
+  padding: 78px 0 106px;
+}
+@media (max-width: 767px) {
+  .parallax02 {
+    padding: 60px 0 80px;
+  }
+}
+@media (max-width: 767px) {
+  .parallax {
+    background-position: center 0 !important;
+  }
+}
+/*==================== Btn ====================*/
+.btn {
+  position: relative;
+  display: inline-block;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 500;
+  text-align: center;
+  color: #ffffff;
+  padding: 15px 98px 14px;
+  background: #d44934;
+  border: none;
+  border-radius: 2px;
+  box-shadow: 3px 3px 5px 0px rgba(0, 0, 0, 0.41);
+}
+@media (max-width: 767px) {
+  .btn {
+    display: block;
+  }
+}
+@media (max-width: 767px) {
+  .btn {
+    padding: 15px 0 14px;
+  }
+}
+.btn:hover {
+  background: #692669;;
+  box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
+}
+.btn:active {
+  background: #692669;;
+  box-shadow: 0 0 0 0px rgba(0, 0, 0, 0);
+}
+/*==================== Icon ====================*/
+.icon {
+  margin-left: auto;
+  margin-right: auto;
+  width: 105px;
+  height: 105px;
+  line-height: 105px;
+  text-align: center;
+  font-size: 65px;
+  color: #ffffff;
+  background: #d44934;
+  border-radius: 50%;
+}
+.icon__bg-2 {
+  background: #fbb953;
+}
+.icon__bg-3 {
+  background: #c5db34;
+}
+/*==================== Img ====================*/
+.img {
+  display: inline-block;
+  max-width: 100%;
+}
+.img__circle {
+  border-radius: 50%;
+  overflow: hidden;
+}
+/*==================== Iconed list ====================*/
+.iconed-list {
+  font-size: 14px;
+  line-height: 28px;
+}
+/*==================== Iconed box ====================*/
+.iconed-box {
+  position: relative;
+  text-align: left;
+  padding: 0 0 0 110px;
+}
+.iconed-box .icon {
+  position: absolute;
+  left: 0;
+  top: 5px;
+  width: 84px;
+  height: 84px;
+  line-height: 84px;
+  font-size: 50px;
+  background: #47413c;
+}
+.iconed-box .icon + * {
+  margin-top: 0;
+}
+
+
+/*==================== Brand ====================*/
+.brand {
+  font-family: 'Ubuntu', sans-serif;
+  display: inline-block;
+  width:300px;
+}
+.brand_name {
+  position: relative;
+  font-size: 35px;
+  line-height: 32px;
+  font-weight: 700;
+  color: #ffffff;
+  overflow: hidden;
+  padding: 0 0 4px;
+}
+.brand_slogan {
+  font-size: 10px;
+  line-height: 18px;
+  font-weight: 300;
+  letter-spacing: 3.4px;
+  text-transform: uppercase;
+  color: #909086;
+  margin: 0;
+}
+/*========================================================
+					 CONTENT  Section
+=========================================================*/
+
+/*==================== Background ====================*/
+.bg-2 {
+  background: #47413c;
+  color: #909086;
+}
+.bg-2 h1,
+.bg-2 h2,
+.bg-2 h3,
+.bg-2 h4,
+.bg-2 h5,
+.bg-2 h6 {
+  color: #ffffff;
+}
+.bg-3 {
+  background: #fbfbfb;
+}
+/*==================== Offset ====================*/
+.offset01 {
+  margin-top: 14px;
+}
+/*==================== Shadow ====================*/
+.shadow {
+  box-shadow: 0px 3px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.overlay {
+    background: -moz-linear-gradient(270deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.9) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(30%, rgba(0,0,0,0)), color-stop(100%, rgba(0,0,0,0.9)));
+    background: -webkit-linear-gradient(270deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.9) 100%);
+    background: -o-linear-gradient(270deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.9) 100%);
+    background: -ms-linear-gradient(270deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.9) 100%);
+    background: linear-gradient(180deg, rgba(0,0,0,0) 30%, rgba(0,0,0,0.9) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#000000',GradientType=0 );
+}
+.overlay, .overlay-all {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 0;
+    top: 0;
+    left: 0;
+}
+/*========================================================
+					 FOOTER  Styles
+=========================================================*/
+footer {
+  text-align: center;
+  padding: 44px 0 40px;
+  font-size: 12px;
+  line-height: 25px;
+  /*box-shadow: inset 0px 3px 5px 0px rgba(0, 0, 0, 0.2);*/
+}
+/*==================== Footer Brand ====================*/
+.footer-brand {
+  display: inline-block;
+  font-family: 'Ubuntu', sans-serif;
+  color: #909086;
+}
+.footer-brand_name {
+  position: relative;
+  font-size: 35px;
+  line-height: 30px;
+  font-weight: 700;
+  color: #ffffff;
+  overflow: hidden;
+  padding: 0 0 4px;
+}
+.footer-brand_slogan {
+  color: #909086;
+  font-size: 10px;
+  line-height: 20px;
+  font-weight: 300;
+  letter-spacing: 2.8px;
+  text-transform: uppercase;
+  margin: 0;
+}
+
+
+/*Ajout formulaire */
+
+#formulaire {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-variant: small-caps;
+	width:530px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#formulaire input, #formulaire textarea {
+	width:100%;
+	font-family:inherit;
+	padding:5px;
+	border:1px solid #09F;
+}
+#formulaire textarea {
+	height:100px;
+	border:1px solid #09F;
+}
+#send_message {
+	width:200px !important;
+	font-variant: small-caps;
+	border:1px solid #09F;
+	cursor:pointer;
+	cursor:hand;
+}
+#cf_submit_p {
+	text-align:right;
+}
+.error {
+	display: none;
+	padding:5px;
+	margin-bottom:2px;
+	color: #D8000C;
+	font-size:12px;
+	background-color: #FFBABA;
+	border:1px solid #F00;
+	width:530px;	
+}
+.success {
+	display: none;
+	padding:5px;
+	color: #044406;
+	font-size:12px;
+	background-color: #B7FBB9;
+	width:530px;	
+}
+#contact_logo {
+	vertical-align: middle;
+}
+.error img {
+	vertical-align:top;
+}

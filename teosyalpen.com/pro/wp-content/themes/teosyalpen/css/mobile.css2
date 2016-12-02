@@ -1,0 +1,890 @@
+@media (max-width: 700px) {
+.filaire {
+    margin-left: -235px;
+    margin-top: 0;
+    width: 470px;
+}
+.echellev p, .echelleh p {
+    font-size: 20px;
+    margin: 0;
+}
+.echellev {
+    font-size: 20px;
+    height: 130px;
+    left: 3%;
+    top: 52%;
+}
+.echellev img {
+    float: left;
+}
+.filaire .zone {
+    height: 24px;
+    width: 24px;
+}
+.filaire .zone .norm {
+    opacity: 0.5;
+}
+.filaire .zone1 {
+    right: 89px;
+    top: 2px;
+}
+.filaire .zone2 {
+    right: 5px;
+    top: 65px;
+}
+.filaire .zone3 {
+    right: 89px;
+    top: 80px;
+}
+.filaire .zone4 {
+    left: 198px;
+    top: 24px;
+}
+.filaire .zone5 {
+    left: 105px;
+    top: -6px;
+}
+.filaire .zone6 {
+    left: 0;
+    margin-top: -50px;
+    top: 80px;
+}
+.part1 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg1.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part2 {
+    background: none repeat scroll 0 0 #e8e7ef;
+}
+.part2 .hidesite {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.part2 .bg2 {
+    height: 100%;
+}
+.part3 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg3.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part4 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg4.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part5 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg5.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part6 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg6.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part7 {
+    background: url("/pro/wp-content/themes/teosyalpen/images/bg/bg7.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.section.table, .slide.table {
+    display: block !important;
+    padding: 0;
+    right: auto;
+}
+body {
+    min-height: 480px;
+    overflow: auto;
+}
+.hidesite {
+    display: block !important;
+}
+.part1 .texte, .nav, .part1 .or, .hidemobile, .part2 .clear30 {
+    display: none !important;
+}
+.part3 .left2 p, .part3 .left2 h2 {
+    width: 90%;
+}
+.loader .logo {
+    margin: 0 25%;
+    top: 10px;
+    width: 50%;
+}
+.prevmob {
+    cursor: pointer;
+    left: 10px;
+    position: absolute;
+}
+.prevmob, .nextmob {
+    height: 35px;
+    margin-top: -17px;
+    top: 50%;
+    width: 16px;
+    z-index: 11;
+}
+.nextmob {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+}
+.hsContainer {
+    right: auto;
+}
+.hsContent {
+    padding: 10px;
+    width: auto;
+}
+.part1 .hsContent {
+    padding: 0 3%;
+}
+.part4 .hsContent {
+}
+.bas {
+    bottom: 5px;
+    left: 0;
+    padding-left: 0;
+    position: absolute;
+    right: 0;
+    z-index: 3;
+}
+.part1 .tableCell {
+}
+.part2 h3, .part2 h1 {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0 2%;
+    position: absolute;
+    text-align: left;
+    width: 96%;
+}
+.part2 .hsContent {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    vertical-align: top;
+}
+.part2 .botttom {
+    font-size: 9px;
+    left: 0;
+}
+.part2 .hsContent, .part3 .hsContent, .part5b .hsContent {
+    padding: 0;
+    vertical-align: middle;
+    width: 100%;
+}
+.part1 .partcont {
+    text-align: center;
+    width: 100%;
+}
+.content {
+    margin: 0;
+    width: 100%;
+}
+h2.coindroit, h1.coindroit, .coindroit {
+    margin: 10px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+h2.coindroit, h1.coindroit, .coindroit h1 {
+    font-size: 15px;
+    line-height: 15px;
+}
+h2.coindroit, .part2 h1.coindroit, h1.coindroit, .part6 h2, .part6 h1, .part7 p, .part6 h1.coindroit {
+    left: 0;
+    margin: 5% 0;
+    text-align: center;
+    width: 100%;
+}
+.part1 .content {
+    bottom: 0;
+    position: absolute;
+    right: 5%;
+}
+.part1 .logocont {
+    left: 0;
+    margin: 5% 25% 0;
+    width: 50%;
+}
+.part1 .logo {
+}
+.part1 .pen1 {
+    left: 17%;
+    margin: auto;
+    max-width: 80%;
+    top: 15%;
+    width: 66%;
+}
+.part1 .slogan {
+    color: #9c9d9e;
+    display: block;
+    font-size: 16px;
+    line-height: 16px;
+    margin: 5px 0 0;
+    padding-bottom: 0;
+    text-align: right;
+    text-transform: none;
+    width: 100%;
+}
+.part1 h1 {
+    font-size: 26px;
+    line-height: 28px;
+    margin: 5px 0 0;
+}
+.part1 h2 {
+    font-size: 22px;
+    line-height: 24px;
+    margin: 10px 0;
+}
+.part1 .watch {
+    font-size: 15px;
+    height: 42px;
+    line-height: 42px;
+    margin: 5px auto;
+    width: 176px;
+}
+.part1 .bloc {
+    width: 50%;
+}
+.part1 .try, .part1 .buy {
+    float: left;
+    height: 42px;
+    line-height: 42px;
+    margin: 0;
+    width: 120px;
+}
+.part1 .bloc.nobuy {
+    text-align: center;
+    width: 100%;
+}
+.part1 .try span, .part1 .buy span {
+    line-height: 42px;
+    padding-top: 3px;
+}
+.part1 .bloc.nobuy .try {
+    float: none;
+    margin: auto;
+}
+.part1 .watch span {
+    line-height: 42px;
+    padding: 0;
+    width: 100%;
+}
+.part1 .watch img {
+    height: 42px;
+}
+.part1 .try {
+    float: right;
+}
+.part2 .partcont, .part3 .partcont, .part4 .partcont, .part6 .partcont {
+    padding: 0;
+}
+.part1 .try img, .part1 .buy img {
+    height: 42px;
+    width: auto;
+}
+.part1 .discover img.hov {
+    margin-bottom: 0;
+    margin-top: 2px;
+}
+.part1 .discover {
+    font-size: 11px;
+    height: auto;
+    line-height: 11px;
+}
+.part1 .discover img {
+    margin-top: 2px;
+    width: 30px;
+}
+.part2 .partcont {
+    display: block;
+    overflow: hidden;
+    padding-top: 0;
+    width: 100%;
+}
+.part2 .slidecont {
+    padding: 0;
+    width: 400%;
+}
+.part2 .partcont2 {
+    display: block;
+}
+.part2 .left, .part2 .center, .part2 .right {
+    float: left;
+    width: auto;
+}
+.left .three {
+    float: none;
+    margin: auto;
+}
+.part2 .slidemob {
+    float: left;
+    width: 25%;
+}
+.right .three, .rightcont {
+    float: none;
+    margin: auto;
+    width: 300px;
+}
+.three .texttopleft, .part2 .right .texttopleft {
+    clear: both;
+    font-size: 14px;
+    margin: 30px 30px 20px;
+    max-width: 100%;
+    padding: 0;
+    width: auto;
+}
+.part2 h2.coindroit {
+    float: none;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 10px 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-transform: uppercase;
+    top: 5%;
+    width: 100%;
+}
+.three p br, .part2 .right p br {
+}
+.part2 .maps {
+    margin: 5% 10% 15% 0;
+    width: 80%;
+}
+.rond {
+    background: url("../images/bg/ha.png") no-repeat scroll center center / 154px auto transparent;
+    color: #894885;
+    height: 154px;
+    margin-top: 70px;
+    padding: 10px;
+    width: 155px;
+}
+.part2 h2 {
+    color: #d3841a;
+}
+.rondsf {
+    margin: 0;
+}
+.part3 .left2 p, .part3 .left2 h1 {
+    margin: 0 10px 20px;
+    max-width: 100%;
+    width: auto;
+}
+.part3 h1 {
+    font-size: 16px;
+    line-height: 22px;
+}
+.rondsf .rond {
+}
+.fleche {
+    height: 120px;
+    margin-top: 70px;
+}
+.rond p {
+}
+.part3 p {
+    font-size: 13px;
+    line-height: 15px;
+}
+.part3 .clear50 {
+    height: 20px;
+}
+.part3 .left2, .part3 .right2 {
+    width: 100%;
+}
+.part3 .right2 {
+    margin-top: 20px;
+}
+.part3 .right2 img {
+    max-width: 80%;
+}
+.part3 .left, .part3 .right {
+    width: 50%;
+}
+.part3 .slidefull {
+    position: relative;
+}
+.part3 .nextmob, .part3 .prevmob {
+    top: 55%;
+}
+.slide {
+    display: block;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.part3 .slidefull .nextmob {
+    left: auto;
+}
+.part2 .slide {
+    height: 400px;
+    padding-bottom: 100px;
+}
+.part3 ul {
+    clear: both;
+    float: none;
+    width: 85%;
+}
+.part3 ul li {
+}
+.part3 h3, .part3 .right h3 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.part3 h2 {
+    display: none;
+}
+.part3 .slidecont {
+    width: 200%;
+}
+.part3 .partcont, .part4 .partcont {
+    margin: auto;
+    padding: 0;
+    top: 0;
+    width: 96%;
+}
+.part4 .left, .part4 .center, .part4 .right {
+    clear: both;
+    display: block;
+    float: none;
+    padding: 0 0 10px;
+    text-align: center;
+    width: 100%;
+}
+.part4 .tem {
+    border-top: 1px solid #894885;
+    max-width: 100%;
+    padding: 10px 0 0;
+    width: 100%;
+}
+.part4 .partcont h2 {
+    margin: 0;
+}
+.part4 .partcont h3 {
+    clear: both;
+    margin: 0 0 10px;
+}
+.part4 .tem p, .part4 .tem a {
+    border-top: 0 none;
+    clear: none;
+    float: left;
+    height: auto;
+    margin: 0;
+    width: 38%;
+}
+.part4 .tem a.name {
+    display: block;
+    float: none;
+    font-size: 11px;
+    line-height: 13px;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+}
+.part4 .tem p {
+    font-size: 12px;
+    padding: 0 0 0 4%;
+    width: 58%;
+}
+.part4 .tem img {
+    height: auto;
+    width: 100%;
+}
+.part4 p span {
+    color: #3b8ac1;
+    text-align: left;
+}
+.part7 .pen6 {
+    height: auto;
+    max-width: 90%;
+    width: 90%;
+}
+.part7 h1 {
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 0;
+}
+.part7 p, .part7 p.soustitre {
+    font-size: 12px;
+    line-height: 14px;
+    margin: 0 0 5%;
+    width: auto;
+}
+.part7 .try, .part7 .buy {
+}
+.part7 .mid {
+    padding: 0 3%;
+    width: 94%;
+}
+.part7 .mid .bloc {
+    margin: auto auto 5%;
+    width: auto;
+}
+.part1 .mid.nobuy, .part7 .mid.nobuy {
+    float: none;
+    margin: auto auto 5%;
+    padding: 0;
+    width: 100%;
+}
+.part7 .try img, .part7 .buy img {
+    height: auto;
+    width: 100%;
+}
+.part7 a.call {
+    margin: 0 15%;
+    width: 70%;
+}
+.part7 .try span {
+}
+.part7 .buy span {
+}
+.part7 .try span, .part7 .buy span {
+}
+.part7 .buy {
+    float: right;
+}
+.part7 .clear50 {
+    height: 5%;
+}
+.part4 .clear40 {
+    height: 1%;
+}
+.part7 a.call img {
+    height: auto;
+    max-width: 216px;
+    width: 68%;
+}
+.part4 .coindroit {
+    left: 0;
+    margin: 0;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
+.part5 .slidefull {
+    position: relative;
+}
+.part5 .slidecont {
+    height: 100%;
+    width: 300%;
+}
+.part5b .slidecont {
+    height: 100%;
+    width: 400%;
+}
+.part5 .slide, .part5b .slide {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.part5 .slideimg, .part5b .slideimg {
+    display: none;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+.part5b .slideimg {
+    background-size: auto 76%;
+    height: 63%;
+    margin-top: 10%;
+}
+.part5b h1 {
+    font-size: 20px;
+    left: 0;
+    margin: 10px 0 0 10px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+}
+.part5 .slideimg1, .part5b .slideimg1 {
+    display: block;
+}
+.part5 .slidecont img, .slidecont img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.part5 .hsContent {
+    padding: 0;
+    vertical-align: bottom;
+}
+.part5 .slidemob5, .part5b .slidemob7 {
+    display: table;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 33.33%;
+}
+.part5b .slidemob7 {
+    text-align: left;
+    width: 25%;
+}
+.part5 .prevmob, .part5b .prevmob {
+    bottom: 10%;
+    left: 10px;
+    margin: 0;
+    top: auto;
+}
+.part5 .nextmob, .part5b .nextmob {
+    bottom: 10%;
+    right: 10px;
+    top: auto;
+}
+.part5 .slidecont .slidezone, .part5b .slidecont .slidezone {
+    background: none repeat scroll 0 0 #ffffff;
+    border-top: 4px solid #0c598f;
+    bottom: 0;
+    color: #090909;
+    height: 20%;
+    padding: 5% 0;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+    z-index: 9;
+}
+.part5 .slidecont .slidezone h3, .part5b .slidecont .slidezone h2 {
+    font-size: 25px;
+    line-height: 25px;
+    margin: 0;
+    padding: 0 5%;
+}
+.part5 .slidecont .slidezone p, .part5b .slidecont .slidezone ul {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 5px;
+    padding: 0 5%;
+}
+.part5 .slidecont .slidezone h3, .part5 .slidecont .slidezone p, .part5b .slidecont .slidezone h2, .part5b .slidecont .slidezone ul {
+    list-style-position: inside;
+    padding: 0 40px;
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.part6 {
+}
+.part6 h2 {
+    background: none repeat scroll 0 0 #ffffff;
+    color: #474747;
+    font-size: 18px;
+    height: 5%;
+    padding: 15% 0 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+.filaire {
+    bottom: auto;
+    left: 0;
+    margin-left: 0;
+    padding-right: 5%;
+    position: relative;
+    right: auto;
+    top: 25%;
+}
+.filairecont {
+    height: 36%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 5%;
+    position: absolute;
+    top: 10%;
+    width: 90%;
+}
+.part6 .slidefull {
+    position: relative;
+}
+.part6 .slidecont {
+    height: 100%;
+    width: 300%;
+}
+.part6 .slide {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.part6 .slidecont img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.part6 .hsContent {
+    padding: 0;
+    vertical-align: bottom;
+}
+.part6 .slidemob6 {
+    display: table;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 33.33%;
+}
+.part6 .prevmob {
+    bottom: 15%;
+    left: 10px;
+    top: auto;
+}
+.part6 .nextmob {
+    bottom: 15%;
+    right: 10px;
+    top: auto;
+}
+.part6 .slidecont .slidezone {
+    background: none repeat scroll 0 0 #ffffff;
+    border-top: 4px solid #894885;
+    bottom: 0;
+    color: #090909;
+    height: 30%;
+    padding: 5% 0;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+}
+.part6 .slidecont .slidezone h3 {
+    font-size: 25px;
+    line-height: 25px;
+    margin: 0;
+    padding: 0 40px;
+}
+.part6 .slidecont .slidezone p {
+    font-size: 13px;
+    line-height: 15px;
+    margin-top: 5px;
+    padding: 0 40px;
+}
+.grams {
+    bottom: 40%;
+}
+.filaire .zone1 .norm {
+    opacity: 0;
+}
+.filaire .zone1 .hov {
+    display: block;
+}
+.part4 .tem img.play {
+    height: 40px;
+    left: 50%;
+    margin-left: -20px;
+    margin-top: -20px;
+    position: absolute;
+    top: 50%;
+    width: 40px;
+}
+.part7 h2, .part7 h3 {
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 5%;
+}
+.part5b .slideimg1 {
+    background: url("../images/device1.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.part5b .slideimg2 {
+    background: url("../images/device2.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.part5b .slideimg3 {
+    background: url("../images/device1.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.part5b .slideimg4 {
+    background: url("../images/device4.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+}
+.part5 .facec img.imgface {
+    bottom: 0;
+    height: 100%;
+    top: 0;
+}
+.part5 .facec {
+}
+.part5 .bullec, .part5 .zoneoeil .bullec, .part5 .zonefront .bullec, .part5 .zonelevre .bullec {
+    bottom: 5%;
+    padding: 0 2%;
+    right: 5%;
+    width: 86%;
+}
+.part5 .zoneoeil .bulle .traitbulle, .part5 .zonefront .bulle .traitbulle, .part5 .zonelevre .bulle .traitbulle {
+    max-height: 385px;
+}
+.part5 .zoneoeil .bulle .traitbulle {
+    max-height: 245px;
+}
+.part5 .bulle h3 {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 10px 0 5px;
+}
+.part5 .bulle p {
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0 0 10px;
+}
+.fin {
+}
+}
+@media (max-width: 600px) {
+.part5 .face {
+}
+}
+@media (max-width: 500px) {
+.part5 .face {
+}
+}
+@media (max-width: 700px) and (max-height: 600px) {
+.part5 .zoneoeil .bulle .traitbulle, .part5 .zonefront .bulle .traitbulle, .part5 .zonelevre .bulle .traitbulle {
+    max-height: 325px;
+}
+.part5 .zoneoeil .bulle .traitbulle {
+    max-height: 200px;
+}
+.footer {
+    right: 0;
+}
+.page .footer div {
+    left: 0;
+    margin: 4px 0 4px 10px;
+    text-align: left;
+    width: auto;
+}
+.footer p, .footer p a, .footer ul li a {
+    font-size: 11px;
+}
+.fin {
+}
+}
+@media (max-width: 700px) and (max-height: 500px) {
+.part5 .zoneoeil .bulle .traitbulle, .part5 .zonefront .bulle .traitbulle, .part5 .zonelevre .bulle .traitbulle {
+    max-height: 250px;
+    width: 30px;
+}
+.part5 .zoneoeil .bulle .traitbulle {
+    max-height: 160px;
+}
+.fin {
+}
+}
+@media (max-height: 400px) {
+.part4 .partcont h3 {
+    margin: 0 0 3px;
+}
+.part4 h1 {
+    margin: 5px 0 0;
+}
+.part4 .hsContent {
+    padding-top: 25px;
+}
+.part4 .tem {
+    padding: 5px 0 0;
+}
+.part4 .left, .part4 .center, .part4 .right {
+    padding: 0 0 5px;
+}
+.part7 .clear50, .part4 .clear50 {
+    height: 0;
+}
+.part7 .clear40 {
+    height: 5px;
+}
+.part7 .clear50 {
+    height: 5px;
+}
+}
+

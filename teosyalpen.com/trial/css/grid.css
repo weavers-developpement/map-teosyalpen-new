@@ -1,0 +1,126 @@
+/*==========================================================
+                        NORMALIZE
+==========================================================*/
+html,
+body,
+span,
+applet,
+object,
+iframe,
+pre,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+legend,
+tfoot,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: top;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+
+/*==========================================================
+                        GRID SYSTEM
+==========================================================*/
+@media (min-width: 992px)
+.promo {
+    padding: 20px;
+}
+
+@media (min-width: 1200px)
+.col1.offset {
+    margin-left: 8.33333333%;
+}
+
+@media (min-width: 1200px)
+.col1 {
+    width: 25%;
+	float: left;
+}
+
+@media (min-width: 1200px)
+.col2 {
+    width: 33.33333333%;
+	float: left;
+}
+@media (min-width: 1200px)
+.col1, .col2, {
+    float: left;
+}
+@media (min-width: 992px)
+.col-md-7 {
+    width: 58.33333333%;
+}
+@media (min-width: 992px)
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+

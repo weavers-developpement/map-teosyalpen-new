@@ -1,0 +1,84 @@
+
+.part3 .right2, .part1 .pen1, .part2 h3, .part7 .pen6, .hideland {
+    display: none;
+}
+.section, .section.table, .slide.table {
+    opacity: 0;
+}
+.loaded .loader {
+    display: table;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.loader h3 {
+    font-size: 25px;
+    line-height: 25px;
+    margin: 30px 0;
+}
+.loader p.hidemobile {
+    color: #894885;
+    display: block !important;
+    font-size: 15px;
+    margin: -20px 0 0;
+}
+.part7 .pen6 {
+    max-height: 20%;
+    width: auto;
+}
+.part1 .logo {
+    left: 0;
+    margin: 2%;
+    max-height: 10%;
+    position: absolute;
+    right: auto;
+    width: auto;
+}
+.part4 .tem a {
+    width: 10%;
+}
+.part4 .tem p {
+    width: 88%;
+}
+.part4 .tem a.name {
+    padding: 0;
+}
+.part5 .slidecont .slidezone {
+    border-top: 2px solid #01b7ec;
+    height: 15%;
+    padding: 2% 0;
+}
+.part7 .mid {
+    padding: 0 3%;
+    width: 28%;
+}
+.part7 .mid2 {
+    float: right;
+    padding: 0 3%;
+    width: 28%;
+}
+.part7 .buy {
+    float: left;
+}
+.rond {
+    margin-top: 10px;
+}
+.part3 .left2 p {
+    display: none;
+}
+.part3 .clear50 {
+    height: 0;
+}
+.part3 .left2 h2 {
+    margin-bottom: 0 !important;
+    margin-top: 10px;
+}
+.loader .logo {
+    left: 0;
+    margin: 0 0 0 10px;
+    text-align: left;
+}
+#superContainer {
+    top: 0 !important;
+}

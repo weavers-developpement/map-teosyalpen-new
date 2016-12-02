@@ -1,0 +1,6 @@
+body {
+    width: 990px !important;
+}
+.content, .footer {
+	    position: relative;
+}

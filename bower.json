@@ -1,0 +1,21 @@
+{
+  "name": "teosyalpen",
+  "version": "1.0.0",
+  "authors": [
+	"Christophe Dupeyroux <christophe.dupeyroux@weavers.fr>"
+  ],
+  "license": "MIT",
+  "ignore": [
+	"**/.*",
+	"node_modules",
+	"bower_components",
+	"test",
+	"tests",
+	"_dev"
+  ],
+  "dependencies": {
+	"bootstrap": "3.3.6",
+	"imagesloaded": "~3.2.0",
+	"magnific-popup": "~1.0.1"
+  }
+}

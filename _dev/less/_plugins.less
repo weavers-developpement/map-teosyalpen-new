@@ -1,0 +1,103 @@
+/**
+*
+* Plugins CSS
+*
+**/
+
+.mfp-with-zoom .mfp-container,
+.mfp-with-zoom.mfp-bg {
+    opacity: 0;
+    -webkit-backface-visibility: hidden;
+    /* ideally, transition speed should match zoom duration */
+    .transition(0.3s, ease-out);
+}
+
+.mfp-with-zoom.mfp-ready .mfp-container {
+    opacity: 1;
+}
+
+.mfp-with-zoom.mfp-ready.mfp-bg {
+    opacity: 0.8;
+}
+
+.mfp-with-zoom.mfp-removing .mfp-container,
+.mfp-with-zoom.mfp-removing.mfp-bg {
+    opacity: 0;
+}
+
+
+/* overlay at start */
+
+.mfp-fade.mfp-bg {
+    opacity: 0;
+    .transition(0.15s, ease-out);
+}
+
+
+/* overlay animate in */
+
+.mfp-fade.mfp-bg.mfp-ready {
+    opacity: 0.8;
+}
+
+
+/* overlay animate out */
+
+.mfp-fade.mfp-bg.mfp-removing {
+    opacity: 0;
+}
+
+
+/* content at start */
+
+.mfp-fade.mfp-wrap .mfp-content {
+    opacity: 0;
+    .transition(0.15s, ease-out);
+}
+
+
+/* content animate it */
+
+.mfp-fade.mfp-wrap.mfp-ready .mfp-content {
+    opacity: 1;
+}
+
+
+/* content animate out */
+
+.mfp-fade.mfp-wrap.mfp-removing .mfp-content {
+    opacity: 0;
+}
+
+
+/*
+.mfp-arrow {
+	&::before, &::after {
+		font-family: "FontAwesome";
+		border: none;
+
+	}
+	&::before {
+		width: 2.5em; height: 2.5em;
+		padding: 0.25em;
+		background: @layer-white;
+		.translate(0,50%);
+	}
+	&::after {
+		font-size: 2.5em;
+	}
+	&.mfp-arrow-left {
+		&::after  {
+			content:'\f053';
+			color: @black;
+		}
+	}
+	&.mfp-arrow-right {
+		&::after {
+			content:'\f054';
+			color: @black;
+		}
+
+	}
+}
+*/

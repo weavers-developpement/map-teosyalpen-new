@@ -1,0 +1,226 @@
+.loader .center {
+    background: url("../images/bg/traitis.png") no-repeat scroll center center transparent;
+}
+.part6{
+    background: url("../images/bg/bg6.jpg") no-repeat scroll center center transparent;
+}
+.part1   {
+    background: url("../images/bg/bg1.jpg") no-repeat scroll center center transparent;
+}
+.part2 {
+    background: url("../images/bg/bg2.jpg") no-repeat scroll center center #905e9d;
+}
+/*
+.part2 .center {
+    background: url("../images/bg/traitha.png") no-repeat scroll center center transparent;
+}
+*/
+.part2 .center .ha {
+    background: url("../images/bg/ha.png") no-repeat scroll center center transparent;
+}
+/*
+.rond {
+    background: url("../images/bg/rondbleu.png") no-repeat scroll center center transparent;
+}
+.rond.intersested {
+    background: url("../images/bg/intersested.png") no-repeat scroll right 0 transparent;
+}**/
+.part3  {
+    background: url("../images/bg/bg3.jpg") no-repeat scroll center center #246699;
+}
+.loader {
+    background: none repeat scroll 0 0 #f1f1f1;
+}
+.loader .traitblanc {
+    background: url("../images/bg/traitblanc.png") no-repeat scroll center center transparent;
+}
+.part3 h3 {
+    background: url("../images/bg/traitblanc.png") no-repeat scroll right center transparent;
+}
+.center .is {
+    background: url("../images/bg/rondblanc.png") no-repeat scroll center center transparent;
+}
+.part3 .right h3 {
+    background: url("../images/bg/traitblanc.png") no-repeat scroll left center transparent;
+}
+.part4 {
+    background: url("../images/bg/bg4.jpg") no-repeat scroll center center transparent;
+}
+.slide .slidec {
+    background: url("../images/bg/quotevert.png") no-repeat scroll right center transparent;
+}
+.slide .slidetop {
+    background: url("../images/bg/quotebleu.png") no-repeat scroll 0 0 transparent;
+}
+.slide .slidec2 {
+    background: url("../images/bg/ombre.png") no-repeat scroll left bottom transparent;
+}
+.slideh {
+    background: url("../images/bg/quotebleu.png") no-repeat scroll 0 0 transparent;
+}
+.part5  {
+    background: url("../images/bg/bg5.jpg") no-repeat scroll center center transparent;
+}
+.part5 .bullec {
+    /*background: url("../images/bg/bulle.png") repeat scroll 0 0 transparent;*/
+	background: #fff;
+}/*
+.filairebg {
+    background: url("../images/bg/bg6.jpg") no-repeat scroll right 0 transparent;
+}*/
+.drag {    
+	background: url("../images/bg/drag.png") repeat-y scroll 32px center transparent;
+}
+.teosyalpen3d {    
+	background: #fff;
+}
+.grams {
+    background: url("../images/bg/grams.png") no-repeat scroll left 0 transparent;
+    background-size: 30px 32px;
+}
+.echelleh .dessin {
+    background: url("../images/bg/echelleh.png") repeat-x scroll center center transparent;
+}
+.echellev .dessin {
+    background: url("../images/bg/echellev.png") repeat-y scroll center center transparent;
+}
+.part7  {
+    background: url("../images/bg/bg7.jpg") no-repeat scroll center center transparent;
+}
+.menu li a span.picto {
+    background: url("../images/bg/menu.png") no-repeat scroll center 0 transparent;
+}
+.menu li a span.picto.hov {
+    background: url("../images/bg/menuhover.png") no-repeat scroll center 0 transparent;
+}
+.menu li a span.home {
+    background: url("../images/menu/home.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.home {
+    background: url("../images/menu/home-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.market {
+    background: url("../images/menu/market.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.market {
+    background: url("../images/menu/market-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.product {
+    background: url("../images/menu/product.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.product {
+    background: url("../images/menu/product-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.experts {
+    background: url("../images/menu/experts.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.experts {
+    background: url("../images/menu/experts.png") no-repeat scroll center center transparent;
+}
+.menu li a span.universal {
+    background: url("../images/menu/universal.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.universal {
+    background: url("../images/menu/universal-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.injection {
+    background: url("../images/menu/injection.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.injection {
+    background: url("../images/menu/injection-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.technology {
+    background: url("../images/menu/technology.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.technology {
+    background: url("../images/menu/technology-hover.png") no-repeat scroll center center transparent;
+}
+.menu li a span.meet-us {
+    background: url("../images/menu/meet-us.png") no-repeat scroll center center transparent;
+}
+.menu li a span.picto.hov span.meet-us {
+    background: url("../images/menu/meet-us-hover.png") no-repeat scroll center center transparent;
+}
+.menurs li a span.picto {
+    background: url("../images/bg/menu2.png") no-repeat scroll 0 0 transparent;
+}
+.menurs li a span.picto.hov {
+    background: url("../images/bg/menuhover.png") no-repeat scroll 0 0 transparent;
+}
+.menurs li a span.facebook {
+    background: url("../images/menu/facebook.png") no-repeat scroll center center transparent;
+}
+.menurs li a span.twitter {
+    background: url("../images/menu/twitter.png") no-repeat scroll center center transparent;
+}
+
+.part5 .slideimg1 {
+    background: url("../images/mobile/skin.png") no-repeat scroll center center transparent;
+}
+.part5 .slideimg2 {
+    background: url("../images/mobile/delicate.png") no-repeat scroll center center transparent;
+
+}
+.part5 .slideimg3
+ {
+    background: url("../images/mobile/sensitive.png") no-repeat scroll center center transparent;
+}
+.btn {
+}
+.btn-dl span{
+    background: url("../images/bg/btn-dl.png") no-repeat scroll center center transparent;
+}
+.btn-dl span.hov{
+    background: url("../images/bg/btn-dl-hover.png") no-repeat scroll center center transparent;
+}
+.part7 .try span, .wpcf7-submit {
+    background: url("../images/bg/meet-us.png") no-repeat scroll center center transparent;
+}
+.part7 .try span{
+    background: url("../images/bg/meet-us.png") no-repeat scroll center center transparent;
+}
+.part7 .try span.hov, .wpcf7-submit:hover{
+    background: url("../images/bg/meet-us-hover.png") no-repeat scroll center center transparent;
+}
+.next {
+    background: url("../images/bg/nextbg.png") no-repeat scroll center center transparent;
+}
+/*
+.part2 .next, .part4 .next {
+    background: url("../images/bg/nextbleubg.png") no-repeat scroll center center transparent;
+}*/
+.drag  div {
+    background: url("../images/bg/dragbg.png") no-repeat scroll center center transparent;
+}
+.part5b {
+    background: #474747;
+}
+.part5b .quart p {
+    background: url("../images/bg/rondvertp.png") no-repeat scroll center center transparent;
+}
+
+.part1 .logocont  {
+  background: url("/pro/wp-content/themes/teosyalpen/images/logo.png") no-repeat scroll 0 bottom transparent;
+}
+.part1 .logobas {
+  background: url("/pro/wp-content/themes/teosyalpen/images/logobas.png") no-repeat scroll 0 bottom  transparent;
+}
+
+.part2 .hsContent {
+  background: url("/pro/wp-content/themes/teosyalpen/images/datas.png") no-repeat scroll center 40px transparent;
+}
+.part1 .logobas , .part1 .logocont {
+    background-size: contain !important;
+	-webkit-background-size: contain;
+-moz-background-size: contain;
+}
+.part2 .hsContent{
+    background-size: auto 80% !important;
+	-webkit-background-size: auto 80%;
+-moz-background-size: auto 80%;
+}
+.homeSlide   , .rond, .part5 .slidemob5, .part5 .slide, .echelleh, .part5 .slideimg, .filairebg, .loader, .part5b .quart p, .part7 .try span, .part7 .buy span{
+    background-size: cover !important;
+	-webkit-background-size: cover;
+-moz-background-size: cover;
+}

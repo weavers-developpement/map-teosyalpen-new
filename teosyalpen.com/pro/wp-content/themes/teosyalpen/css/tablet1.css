@@ -1,0 +1,623 @@
+
+.part1 .texte, .nav, .part1 .or, .hidemobile, .part2 .clear30, .footer {
+    display: block !important;
+}
+.part1 {
+    background: url("../images/bg/bg1.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part2 {
+    background: url("../images/bg/bg2.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part3 {
+    background: url("../images/bg/bg3.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part4 {
+    background: url("../images/bg/bg4.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part5 {
+    background: url("../images/bg/bg5.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part6 {
+    background: url("../images/bg/bg6.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.part7 {
+    background: url("../images/bg/bg7.jpg") no-repeat fixed center center rgba(0, 0, 0, 0);
+}
+.section.table, .slide.table {
+    display: block !important;
+    padding: 0;
+    right: auto;
+}
+body {
+    min-height: 480px;
+    overflow: auto;
+}
+.hidesite {
+    display: block !important;
+}
+.part1 .texte, .nav, .part1 .or, .hidemobile, .part2 .clear30, .footer {
+    display: none !important;
+}
+.part3 .left2 p, .part3 .left2 h2 {
+    font-size: 25px;
+    line-height: 30px;
+    width: 90%;
+}
+.loader .logo {
+    margin: 0 25%;
+    top: 10px;
+    width: 50%;
+}
+.prevmob {
+    cursor: pointer;
+    left: 10px;
+    position: absolute;
+}
+.prevmob, .nextmob {
+    height: 36px;
+    margin-top: -30px;
+    top: 50%;
+    width: 16px;
+    z-index: 11;
+}
+.nextmob {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+}
+.hsContainer {
+    right: auto;
+}
+.hsContent {
+    padding: 3%;
+    width: 94%;
+}
+.part1 .hsContent {
+    padding: 1% 3%;
+}
+.part4 .hsContent {
+    padding-top: 40px;
+}
+.bas {
+    bottom: 5px;
+    left: 0;
+    padding-left: 0;
+    position: absolute;
+    right: 0;
+    z-index: 3;
+}
+.part1 .tableCell {
+}
+.part2 h3 {
+    bottom: 5%;
+    font-size: 22px;
+    line-height: 30px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.part2 .hsContent {
+    vertical-align: top;
+}
+.part2 .hsContent, .part3 .hsContent {
+    padding: 0;
+    vertical-align: middle;
+    width: 100%;
+}
+.part1 .partcont, .part1 .pen1 {
+    bottom: auto;
+    left: auto;
+    padding: 0;
+    position: relative;
+    right: auto;
+    top: auto;
+}
+.content {
+    margin: 0;
+    width: 100%;
+}
+h2.coindroit {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.part1 .logo {
+    left: 0;
+    margin: 20px 30% 0;
+    width: 40%;
+}
+.part1 .pen1 {
+    margin: 0 auto;
+    max-width: 50%;
+    width: 50%;
+}
+.part1 .slogan {
+    color: #9C9D9E;
+    display: block;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 5px 0 0;
+    padding-bottom: 10px;
+    text-align: right;
+    text-transform: none;
+    width: 100%;
+}
+.part1 h1 {
+    margin: 5px 0 0;
+}
+.part1 .watch {
+    font-size: 15px;
+    height: 42px;
+    line-height: 42px;
+    margin: 20px auto 0;
+    width: 176px;
+}
+.part1 .bloc {
+    width: 37%;
+}
+.part1 .bloc.nobuy {
+    margin-top: 20px;
+    text-align: center;
+    width: 100%;
+}
+.part1 .bloc.nobuy .try {
+    float: none;
+    margin: auto;
+}
+.part1 .watch span {
+    line-height: 42px;
+    width: 100%;
+}
+.part1 .watch img {
+    height: 42px;
+}
+.part1 .try {
+    float: right;
+}
+.part2 .partcont, .part3 .partcont, .part4 .partcont, .part6 .partcont {
+    padding: 0;
+}
+.part2 .partcont {
+    display: block;
+    overflow: hidden;
+    padding-top: 0;
+    width: 100%;
+}
+.part2 .slidecont {
+    padding: 0;
+    width: 400%;
+}
+.part2 .partcont2 {
+    display: block;
+}
+.part2 .left, .part2 .center, .part2 .right {
+    float: left;
+    width: auto;
+}
+.left .three {
+    float: none;
+    margin: auto;
+}
+.part2 .slidemob {
+    float: left;
+    width: 25%;
+}
+.right .three, .rightcont {
+    float: none;
+    margin: auto;
+    width: 300px;
+}
+.three p, .part2 .right p {
+    font-size: 25px;
+    line-height: 30px;
+    margin: 30px auto 20px;
+    padding: 0;
+}
+.part2 h2.coindroit {
+    float: none;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 10px 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    text-transform: uppercase;
+    top: 5%;
+    width: 100%;
+}
+.three p br {
+    display: none;
+}
+.three p br, .part2 .right p br {
+    display: none;
+}
+.part2 .maps {
+    margin: 5% 10% 15% 0;
+    width: 80%;
+}
+.rond {
+    font-size: 24px;
+    height: 185px;
+    margin-top: 70px;
+    padding-top: 40px;
+    width: 225px;
+}
+.rond .rondimg img {
+    margin-top: 5px;
+    width: 128px;
+}
+.rondsf {
+    margin: 0;
+}
+.part3 h2 {
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 20px !important;
+}
+.rondsf .rond {
+}
+.fleche {
+    height: 120px;
+    margin-top: 70px;
+}
+.rond p {
+}
+.part3 p {
+    font-size: 13px;
+    line-height: 15px;
+}
+.part3 .clear50 {
+    height: 100px;
+}
+.part3 .left2, .part3 .right2 {
+    width: 100%;
+}
+.part3 .right2 {
+    margin-top: 20px;
+}
+.part3 .right2 img {
+    max-width: 80%;
+}
+.part3 .left, .part3 .right {
+    width: 50%;
+}
+.part3 .slidefull {
+    position: relative;
+}
+.part3 .slidefull .nextmob, .part3 .slidefull .prevmob {
+    top: 35%;
+}
+.slide {
+    display: block;
+    overflow: hidden;
+    padding: 0;
+    width: 100%;
+}
+.part3 .slidefull .nextmob {
+    left: auto;
+}
+.part2 .slide {
+    height: 500px;
+}
+.part3 ul {
+    clear: both;
+    float: none;
+    width: 90%;
+}
+.part3 h3, .part3 .right h3 {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+.part3 h4 {
+    display: none;
+}
+.part3 .slidecont {
+    width: 200%;
+}
+.part4 .left, .part4 .center, .part4 .right {
+    clear: both;
+    float: none;
+    padding: 0 0 10px;
+    text-align: center;
+    width: 100%;
+}
+.part4 .tem {
+    border-top: 1px solid #0C598F;
+    padding: 10px 0 0;
+    width: 100%;
+}
+.part4 .tem p, .part4 .tem a {
+    border-top: 0 none;
+    clear: none;
+    float: right;
+    height: auto;
+    margin: 0;
+    width: 38%;
+}
+.part4 .tem a.name {
+    display: block;
+    font-size: 18px;
+    padding: 5px 0 0;
+    text-align: left;
+    width: 100%;
+}
+.part4 .tem p {
+    font-size: 20px;
+    padding: 0 0 0 2%;
+    width: 60%;
+}
+.part4 .tem img {
+    height: auto;
+}
+.part4 p span {
+    color: #3B8AC1;
+    text-align: left;
+}
+.part7 .pen6 {
+    width: 558px;
+}
+.part7 h2 {
+    font-size: 23px;
+}
+.part7 .try, .part7 .buy {
+    float: left;
+    height: auto;
+    line-height: 35px;
+    margin: 20px 5%;
+    text-decoration: none;
+    width: 90%;
+}
+.part7 .mid {
+    padding: 0 3%;
+    width: 44%;
+}
+.part1 .mid.nobuy, .part7 .mid.nobuy {
+    float: none;
+    margin: auto;
+    width: 55%;
+}
+.part7 .try img, .part7 .buy img {
+    height: auto;
+    width: 100%;
+}
+.part7 a.call {
+    margin: 0 25%;
+    width: 50%;
+}
+.part7 .try span {
+}
+.part7 .buy span {
+}
+.part7 .try span, .part7 .buy span {
+    display: block;
+    font-size: 22px;
+    line-height: 32px;
+    margin: 0;
+    padding-bottom: 5px;
+    padding-top: 8px;
+    width: auto;
+}
+.part7 .buy {
+    float: right;
+}
+.part7 .clear50 {
+    height: 60px;
+}
+.part7 a.call img {
+    max-height: 30%;
+    width: auto;
+}
+.part5 .slidefull {
+    position: relative;
+}
+.part5 .slidecont {
+    height: 100%;
+    width: 300%;
+}
+.part5 .slide {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.part5 .slideimg {
+    display: none;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+.part5 .slideimg1 {
+    display: block;
+}
+.part5 .slidecont img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.part5 .hsContent {
+    padding: 0;
+    vertical-align: bottom;
+}
+.part5 .slidemob5 {
+    display: table;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 33.33%;
+}
+.part5 .prevmob {
+    bottom: 10%;
+    left: 10px;
+    margin: 0;
+    top: auto;
+}
+.part5 .nextmob {
+    bottom: 10%;
+    right: 10px;
+    top: auto;
+}
+.part5 .slidecont .slidezone {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-top: 4px solid #0C598F;
+    bottom: 0;
+    color: #090909;
+    height: 20%;
+    padding: 5% 0;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+}
+.part5 .slidecont .slidezone h3 {
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 5%;
+}
+.part5 .slidecont .slidezone p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+    padding: 0 5%;
+}
+.part5 .slidecont .slidezone h3, .part5 .slidecont .slidezone p {
+    padding: 0 40px;
+}
+.part5 .zonefront {
+    right: 200px;
+    top: 210px;
+}
+.part5 .zoneoeil {
+    left: 170px;
+    top: 275px;
+}
+.part5 .zonelevre {
+    left: 50%;
+    margin-left: -25px;
+    top: 490px;
+}
+.part6 {
+}
+.part6 h2 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    color: #474747;
+    font-size: 18px;
+    height: 5%;
+    padding: 15% 0 0;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 100%;
+}
+.filaire {
+    bottom: auto;
+    left: 0;
+    margin-left: 0;
+    padding-right: 5%;
+    position: relative;
+    right: auto;
+    top: 40%;
+    width: 984px;
+}
+.filairecont {
+    height: 36%;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 5%;
+    position: absolute;
+    top: 10%;
+    width: 90%;
+}
+.part6 .slidefull {
+    position: relative;
+}
+.part6 .slidecont {
+    height: 100%;
+    width: 300%;
+}
+.part6 .slide {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+.part6 .slidecont img {
+    max-height: 100%;
+    max-width: 100%;
+}
+.part6 .hsContent {
+    padding: 0;
+    vertical-align: bottom;
+}
+.part6 .slidemob6 {
+    display: table;
+    float: left;
+    height: 100%;
+    position: relative;
+    width: 33.33%;
+}
+.part6 .prevmob {
+    bottom: 15%;
+    left: 10px;
+    top: auto;
+}
+.part6 .nextmob {
+    bottom: 15%;
+    right: 10px;
+    top: auto;
+}
+.part6 .slidecont .slidezone {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-top: 4px solid #0C598F;
+    bottom: 0;
+    color: #090909;
+    height: 30%;
+    padding: 5% 0;
+    position: absolute;
+    text-align: left;
+    width: 100%;
+}
+.part6 .slidecont .slidezone h3 {
+    font-size: 30px;
+    line-height: 30px;
+    margin: 0;
+    padding: 0 40px;
+}
+.part6 .slidecont .slidezone p {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 10px;
+    padding: 0 40px;
+}
+.grams {
+    bottom: 40%;
+}
+.filaire .zone1 .norm {
+    opacity: 0;
+}
+.filaire .zone1 .hov {
+    display: block;
+}
+.play {
+    height: 40px !important;
+    left: 50%;
+    margin-left: -20px;
+    margin-top: -20px;
+    position: absolute !important;
+    top: 50% !important;
+    width: 40px !important;
+}
+.rond .number {
+    display: block;
+    font-size: 80px;
+    line-height: 80px;
+    margin: 40px 0 0;
+}
+.rond .titre {
+    display: block;
+    margin-top: -20px;
+}
+.fin {
+}

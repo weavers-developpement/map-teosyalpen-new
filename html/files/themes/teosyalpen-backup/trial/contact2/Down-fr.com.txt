@@ -1,0 +1,12 @@
+Ce fichier a été téléchargé depuis http://www.down-fr.com.
+
+Nous modifions la majorité des scripts stockés sur notre serveur, c'est pourquoi
+nous vous demandons de ne pas distribuer les fichiers téléchargés depuis Down-fr.com
+sans notre autorisation préalable.
+
+Les modifications peuvent inclure la correction de bugs ou la mise à jour du script
+pour une plus grande compatibilité avec le paramétrage du php.ini (pour les scripts PHP).
+
+Si vous avez téléchargé ce fichier sur un autre site, nous vous remercions par avance
+de nous le signaler afin que nous prenions contact avec le Webmestre dudit site
+en question : http://www.down-fr.com/contact.php.

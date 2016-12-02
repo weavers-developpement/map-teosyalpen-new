@@ -1,0 +1,748 @@
+
+@media (max-width: 1649px) {
+.part5 .bulle {
+    left: 360px;
+}
+.part5 .bulle .traitbulle {
+    left: -283px;
+    width: 283px;
+}
+.part5b .quart .text {
+    font-size: 12px;
+    margin: auto;
+    text-align: left;
+    width: 190px;
+}
+.part5b .quart .img {
+    height: 207px;
+    margin-top: 45px;
+    width: 150px;
+}
+}
+@media (max-width: 1499px) {
+.part1 .slogan {
+    font-size: 16px;
+    line-height: 21px;
+}
+.part1 h1 {
+}
+.part1 .texte {
+    font-size: 19px;
+    line-height: 24px;
+    width: 650px;
+}
+.three p, .part2 .right p {
+    font-size: 17px;
+}
+.part2 .botttom {
+    font-size: 12px;
+}
+.part2 .left {
+}
+.part2 .right {
+}
+.part2 h3, .part2 h1 {
+}
+h2.coindroit, h1.coindroit {
+    font-size: 29px;
+    line-height: 29px;
+}
+.part6 .coindroit {
+    font-size: 29px;
+    line-height: 29px;
+}
+.part4 .tem {
+}
+.part4 .tem p {
+}
+.filaire {
+    height: 198px;
+    margin-left: -442px;
+    margin-top: -99px;
+    width: 884px;
+}
+.filaire .zone1 {
+    right: 180px;
+    top: 15px;
+}
+.filaire .zone2 {
+    right: 10px;
+    top: 130px;
+}
+.filaire .zone3 {
+    right: 180px;
+    top: 155px;
+}
+.filaire .zone4 {
+    left: 384px;
+    top: 55px;
+}
+.filaire .zone5 {
+    left: 205px;
+    top: -2px;
+}
+.filaire .zone6 {
+    left: 5px;
+    margin-top: -16px;
+    top: 70px;
+}
+.echellev {
+    height: 201px;
+    right: 3%;
+}
+.echellev img {
+}
+.echelleh {
+    bottom: -100px;
+    margin-right: -455px;
+    width: 910px;
+}
+.part5 .bulle {
+    left: 240px;
+}
+.part5 .bulle .traitbulle {
+    left: -165px;
+    width: 165px;
+}
+.part5b .quart .text {
+    font-size: 12px;
+    margin: auto;
+    text-align: left;
+    width: 190px;
+}
+.part5b .quart .img {
+    height: 207px;
+    margin-top: 45px;
+    width: 150px;
+}
+}
+@media (max-width: 1399px) {
+.part2 .botttom {
+    font-size: 12px;
+}
+.part5 .bulle {
+    left: 183px;
+}
+.part5 .bulle .traitbulle {
+    left: -107px;
+    width: 107px;
+}
+}
+@media (max-width: 1299px) {
+.part6 .coindroit {
+    font-size: 26px;
+    line-height: 26px;
+}
+.part2 .botttom {
+    font-size: 11px;
+}
+.part5 .bulle {
+    left: 140px;
+}
+.part5 .bulle .traitbulle {
+    left: -63px;
+    width: 63px;
+}
+.three p, .part2 .right p {
+    font-size: 16px;
+}
+.three h2 {
+    font-size: 15px;
+    line-height: 15px;
+}
+}
+@media (max-width: 1199px) {
+.part2 .botttom {
+    font-size: 9px;
+}
+.part1 .slogan {
+    font-size: 13px;
+    line-height: 18px;
+}
+.part1 h1 {
+}
+.part1 .texte {
+    font-size: 17px;
+    line-height: 20px;
+    width: 500px;
+}
+.three p, .part2 .right p {
+    font-size: 15px;
+}
+.three h2 {
+    font-size: 14px;
+    line-height: 14px;
+}
+h2.coindroit, h1.coindroit {
+    font-size: 27px;
+    line-height: 27px;
+}
+.part6 .coindroit {
+    font-size: 21px;
+    line-height: 21px;
+}
+.part2 .center {
+    width: 440px;
+}
+.part2 .center .ha {
+}
+.part2 .left {
+    margin: 0 -100px 0 0;
+    width: 295px;
+}
+.part2 .right {
+    margin: 0 0 0 -100px;
+    width: 295px;
+}
+.right .three, .left .three {
+    height: auto;
+}
+.part2 .clear30 {
+    margin: 5% 0;
+}
+.part3 h3, .part3 .right h3 {
+    background-size: 73px 2px;
+}
+.rond {
+    font-size: 12px;
+    height: 66px;
+    line-height: 14px;
+    padding-top: 40px;
+    width: 106px;
+}
+.rond span.titre {
+    margin: -5px 10% 0;
+}
+.rond .number {
+    font-size: 37px;
+    line-height: 37px;
+}
+.ellipse {
+    height: 250px;
+}
+.fleche {
+    height: 107px;
+}
+.pen2 {
+    height: 126px;
+}
+.part3 .left2 {
+}
+.part3 h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.part3 h2 {
+}
+.part3 p {
+    font-size: 14px;
+    line-height: 17px;
+}
+.part4 .tem {
+}
+.part4 .tem img.play {
+    height: 72px;
+    margin-left: -36px;
+    margin-top: -36px;
+    width: 72px;
+}
+.filaire {
+    height: 154px;
+    margin-left: -402px;
+    margin-top: -78px;
+    width: 684px;
+}
+.filaire .zone {
+    height: 25px;
+    width: 25px;
+}
+.filaire .zone1 {
+    right: 136px;
+    top: 9px;
+}
+.filaire .zone2 {
+    right: 10px;
+    top: 95px;
+}
+.filaire .zone3 {
+    right: 136px;
+    top: 125px;
+}
+.filaire .zone4 {
+    left: 294px;
+    top: 38px;
+}
+.filaire .zone5 {
+    left: 154px;
+    top: -5px;
+}
+.filaire .zone6 {
+    left: 5px;
+    margin-top: -16px;
+    top: 60px;
+}
+.part6 .bulle .traitbullep {
+    height: 110px;
+}
+.echellev {
+    height: 180px;
+    margin-left: 50px;
+    right: 5px;
+    top: 47%;
+}
+.echellev img {
+}
+.echelleh {
+    bottom: -130px;
+    margin-right: -350px;
+    width: 700px;
+}
+.part4 .left .tem {
+    float: left;
+}
+.part4 .right .tem {
+    float: right;
+}
+.part4 .partcont h2 a, .part4 .partcont h2 {
+    font-size: 23px;
+}
+.footer p, .footer p a {
+    font-size: 15px;
+}
+.footer ul li {
+    padding: 0 10px;
+}
+.footer ul li a {
+    font-size: 15px;
+}
+.part5 .bullec {
+    width: 400px;
+}
+.part5 .bulle {
+    left: 200px;
+}
+.part5 .bulle .traitbulle {
+    left: -143px;
+    width: 143px;
+}
+.part7 .bottom p {
+    font-size: 14px;
+}
+.part5b .quart .text {
+    font-size: 12px;
+    margin: auto;
+    text-align: left;
+    width: 210px;
+}
+.part5b .quart .img {
+    width: 120px;
+}
+.part2 .botttom {
+    font-size: 9px;
+}
+.part1 .slogan {
+    font-size: 13px;
+    line-height: 18px;
+}
+.part1 h1 {
+}
+.part1 .texte {
+    font-size: 17px;
+    line-height: 20px;
+    width: 500px;
+}
+.three p, .part2 .right p {
+    font-size: 15px;
+}
+.three h2 {
+    font-size: 14px;
+    line-height: 14px;
+}
+h2.coindroit, h1.coindroit {
+    font-size: 27px;
+    line-height: 27px;
+}
+.part2 .center {
+    width: 440px;
+}
+.part2 .center .ha {
+}
+.part2 .left {
+    margin: 0 -100px 0 0;
+    width: 295px;
+}
+.part2 .right {
+    margin: 0 0 0 -100px;
+    width: 295px;
+}
+.right .three, .left .three {
+    height: auto;
+}
+.part2 .clear30 {
+    margin: 5% 0;
+}
+.part3 h3, .part3 .right h3 {
+    background-size: 73px 2px;
+}
+.rond {
+    font-size: 12px;
+    height: 66px;
+    line-height: 14px;
+    padding-top: 40px;
+    width: 106px;
+}
+.rond span.titre {
+    margin: -5px 10% 0;
+}
+.rond .number {
+    font-size: 37px;
+    line-height: 37px;
+}
+.ellipse {
+    height: 250px;
+}
+.fleche {
+    height: 107px;
+}
+.pen2 {
+    height: 126px;
+}
+.part3 .left2 {
+}
+.part3 h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.part3 h2 {
+}
+.part3 p {
+    font-size: 14px;
+    line-height: 17px;
+}
+.part4 .tem {
+}
+.part4 .tem img.play {
+    height: 72px;
+    margin-left: -36px;
+    margin-top: -36px;
+    width: 72px;
+}
+.filaire {
+    height: 154px;
+    margin-left: -402px;
+    margin-top: -78px;
+    width: 684px;
+}
+.filaire .zone {
+    height: 25px;
+    width: 25px;
+}
+.filaire .zone1 {
+    right: 136px;
+    top: 9px;
+}
+.filaire .zone2 {
+    right: 10px;
+    top: 95px;
+}
+.filaire .zone3 {
+    right: 136px;
+    top: 125px;
+}
+.filaire .zone4 {
+    left: 294px;
+    top: 38px;
+}
+.filaire .zone5 {
+    left: 154px;
+    top: -5px;
+}
+.filaire .zone6 {
+    left: 5px;
+    margin-top: -16px;
+    top: 60px;
+}
+.part6 .bulle .traitbullep {
+    height: 110px;
+}
+.echellev {
+    height: 180px;
+    margin-left: 50px;
+    right: 5px;
+    top: 47%;
+}
+.echellev img {
+}
+.echelleh {
+    bottom: -130px;
+    margin-right: -350px;
+    width: 700px;
+}
+.part4 .left .tem {
+    float: left;
+}
+.part4 .right .tem {
+    float: right;
+}
+.part4 .partcont h2 a, .part4 .partcont h2 {
+    font-size: 23px;
+}
+.footer p, .footer p a {
+    font-size: 15px;
+}
+.footer ul li {
+    padding: 0 10px;
+}
+.footer ul li a {
+    font-size: 15px;
+}
+.part5 .bullec {
+    width: 400px;
+}
+.part5 .bulle {
+    left: 150px;
+}
+.part5 .bulle .traitbulle {
+    left: -74px;
+    width: 74px;
+}
+.part5 .zoneoeil .bulle {
+    left: 100px;
+}
+.part5 .zoneoeil .bulle .traitbulle {
+    left: -23px;
+    width: 23px;
+}
+.part7 .bottom p {
+    font-size: 14px;
+}
+.part5b .quart .text {
+    font-size: 12px;
+    margin: auto;
+    text-align: left;
+    width: 210px;
+}
+.part5b .quart .img {
+    width: 120px;
+}
+.part5 .face {
+}
+}
+@media (max-width: 979px) {
+.rollover.btn.btn-dl {
+    margin: 0 10px;
+}
+.part2 .botttom {
+    font-size: 8px;
+}
+.part1 .slogan {
+    font-size: 12px;
+    line-height: 17px;
+    width: 60%;
+}
+.part1 h1 {
+    font-size: 50px;
+    line-height: 50px;
+}
+.part1 h2 {
+    font-size: 18px;
+    line-height: 18px;
+}
+.part1 .texte {
+    font-size: 15px;
+    line-height: 19px;
+    width: 430px;
+}
+.three p, .part2 .right p {
+    font-size: 12px;
+}
+.part2 h3, .part2 h1 {
+    font-size: 15px;
+    line-height: 22px;
+}
+h2.coindroit, h1.coindroit {
+    font-size: 20px;
+    line-height: 20px;
+}
+.part6 .coindroit {
+    font-size: 16px;
+    line-height: 18px;
+}
+.part2 .center {
+}
+.part2 .center .ha {
+    margin-top: -12px;
+}
+.part2 .left {
+}
+.part2 .right {
+}
+.right .three, .left .three {
+}
+.rond {
+}
+.rond .number {
+}
+.ellipse {
+    height: 250px;
+}
+.fleche {
+    height: 107px;
+}
+.pen2 {
+    height: 126px;
+}
+.part3 h3, .part3 .right h3 {
+    background-size: 73px 2px;
+}
+.part3 h4 {
+    font-size: 20px;
+    line-height: 26px;
+}
+.part3 h2 {
+    font-size: 18px;
+    line-height: 22px;
+}
+.part3 .mid ul {
+    width: 300px;
+}
+.part3 .mid ul li {
+    font-size: 12px;
+    line-height: 14px;
+}
+.part4 .tem {
+}
+.part4 .partcont h2 a, .part4 .partcont h2 {
+    font-size: 18px;
+}
+.part5 .face {
+    margin-right: -317px;
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.filaire {
+    margin-left: -362px;
+    margin-top: -60px;
+    width: 584px;
+}
+.filaire .zone {
+    height: 25px;
+    width: 25px;
+}
+.filaire .zone1 {
+    right: 110px;
+    top: 2px;
+}
+.filaire .zone2 {
+    right: 7px;
+    top: 80px;
+}
+.filaire .zone3 {
+    right: 110px;
+    top: 100px;
+}
+.filaire .zone4 {
+    left: 247px;
+    top: 33px;
+}
+.filaire .zone5 {
+    left: 130px;
+    top: -7px;
+}
+.filaire .zone6 {
+    left: 1px;
+    margin-top: -43px;
+    top: 80px;
+}
+.echellev {
+    height: 153px;
+    margin-left: 50px;
+    right: 5px;
+    top: 54%;
+}
+.echellev img {
+    float: left;
+}
+.echelleh {
+    bottom: -100px;
+    margin-right: -300px;
+    width: 600px;
+}
+.part4 .left .tem {
+    float: left;
+}
+.part4 .right .tem {
+    float: right;
+}
+.footer ul li {
+    padding: 0 5px;
+}
+.footer p, .footer p a {
+    font-size: 14px;
+}
+.footer ul li a {
+    font-size: 14px;
+}
+.part5 .bullec, .part5 .zoneoeil .bullec, .part5 .zonefront .bullec, .part5 .zonelevre .bullec {
+    bottom: 12%;
+    left: auto;
+    padding: 0;
+    position: fixed;
+    right: 25%;
+    top: auto;
+    width: 50%;
+}
+.part5 .zoneoeil .bulle, .part5 .zonefront .bulle, .part5 .zonelevre .bulle {
+    left: 76px;
+    top: 27px;
+}
+.part5 .zoneoeil .bulle .traitbulle, .part5 .zonefront .bulle .traitbulle, .part5 .zonelevre .bulle .traitbulle {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    display: block;
+    height: 360px;
+    left: 0;
+    margin: 0;
+    right: auto;
+    top: 0;
+    width: 50px;
+}
+.part5 .zonefront .bulle .traitbulle {
+    height: 455px;
+}
+.part5 .zonelevre .bulle .traitbulle {
+    height: 90px;
+}
+.part5 .bulle p {
+    margin: 0 0 20px;
+}
+.part5 .bulle h3 {
+    margin: 20px 0 ;
+}
+.part7 h3, .part7 h2 {
+    font-size: 33px;
+    line-height: 37px;
+    margin: 0;
+}
+.part7 .bottom p {
+    font-size: 11px;
+}
+.part5b .quart .text {
+    font-size: 11px;
+    margin: auto;
+    text-align: left;
+    width: 190px;
+}
+.part5b .quart .img {
+    width: 100px;
+}
+.part5 .bullec .vimeo, .part5 .bullec .vid {
+    display: none;
+    visibility: hidden;
+}
+}

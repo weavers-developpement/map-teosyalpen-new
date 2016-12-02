@@ -1,0 +1,436 @@
+
+@media (min-height: 901px) and (max-height: 1200px) {
+}
+@media (max-height: 900px) {
+h2.coindroit, h1.coindroit {
+    margin: 10px 0;
+}
+.bas {
+    bottom: 20px;
+}
+.part1 .bas {
+    margin-bottom: -16px;
+}
+.bas a {
+    font-size: 13px;
+    line-height: 13px;
+    margin-top: 5px;
+}
+.part1 h1 {
+    margin: 2% 0 0;
+}
+.part1 .watch {
+    margin: 80px auto 25px;
+}
+.part1 .discover {
+    margin: 40px auto 10px;
+}
+.part2 .partcont {
+    padding: 0;
+}
+.clear30 {
+    height: 30px;
+}
+.clear40 {
+    height: 30px;
+}
+.clear50 {
+    height: 50px;
+}
+.part2 .clear30 {
+    height: 50px;
+}
+.ellipse {
+    height: 330px;
+}
+.pen2 {
+    height: 200px;
+}
+.rondsf {
+    margin: 50px auto 0;
+}
+.part3 .clear50 {
+    height: 50px;
+}
+.echelleh {
+    bottom: -150px;
+}
+.part4 .tem {
+    margin: auto;
+}
+.part4 .tem p {
+}
+.part5 .face {
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.part6 .bullec {
+}
+.part7 .clear50, .part4 .clear50 {
+    height: 20px;
+}
+.part7 h2, .part7 h3 {
+    font-size: 30px;
+}
+.number .chiffre, .number .pc {
+}
+.part5b h1.coindroit {
+    font-size: 35px;
+    margin: 40px 20px 0 0;
+}
+}
+@media (max-height: 700px) {
+.part1 h1 {
+    margin: 20px 0 0;
+}
+.part1 .pen1 {
+    margin: 100px 0 0 20%;
+}
+.flechestat.flechestatt {
+    margin: 0 0 70px;
+}
+.flechestat.flechestatb {
+    margin: 70px 0 0;
+}
+.flechestat {
+    margin: 20px 0;
+}
+.part1 .watch {
+    margin: 40px auto 20px;
+}
+.part1 .discover {
+    margin: 15px auto 5px;
+}
+.part2 .partcont {
+    padding: 0;
+}
+.clear30 {
+    height: 25px;
+}
+.ellipse {
+    height: 300px;
+}
+.pen2 {
+    height: 170px;
+}
+.rondsf {
+    margin: 50px auto 0;
+}
+.three p, .part2 .right p {
+    margin-top: 10px;
+}
+.part2 h3, .part2 h1 {
+}
+.clear30 {
+    height: 20px;
+}
+.clear40 {
+    height: 30px;
+}
+.clear50 {
+    height: 40px;
+}
+.part2 .clear50 {
+    height: 15px;
+}
+.part3 .clear50 {
+    height: 25px;
+}
+.part3 p {
+    font-size: 16px;
+    line-height: 19px;
+}
+.echelleh {
+    bottom: -130px;
+}
+.slide .slidetop {
+    padding-top: 20px;
+}
+.part4 .tem p {
+}
+.part4 .partcont a {
+    font-size: 13px;
+    text-align: left;
+}
+.part4 .tem img {
+}
+.rondsf {
+    margin: 25px auto 0;
+}
+.part5 .bulle {
+    top: -120px;
+}
+.part5 .bullec {
+}
+.part5 .bulle .traitbulle {
+    top: 140px;
+}
+.part5 .face {
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.part6 .bullec {
+    padding: 10px;
+    width: 300px;
+}
+.part7 .clear30 {
+    height: 10px;
+}
+.part7 .clear40 {
+    height: 15px;
+}
+.part7 .clear50, .part4 .clear50 {
+    height: 30px;
+}
+.part7 h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.part7 h2, .part7 h3 {
+    font-size: 25px;
+    line-height: 25px;
+}
+.part7 .bloc {
+    margin: 0 0 20px;
+}
+.part7 p {
+    font-size: 14px;
+}
+.number .chiffre, .number .pc {
+    line-height: 40px;
+}
+.rond span.titre {
+    margin: -10px 10% 0;
+}
+.part5b h1.coindroit {
+    font-size: 35px;
+    margin: 40px 20px 0 0;
+}
+}
+@media (max-height: 635px) {
+.part1 .watch {
+    margin: 60px auto;
+}
+.part2 .partcont {
+    padding: 10px 2%;
+}
+.ellipse {
+    height: 75px;
+}
+.pen2 {
+    height: 170px;
+}
+.part1 .partcont {
+}
+.fleche {
+    height: 136px;
+}
+.clear30 {
+    height: 15px;
+}
+.clear40 {
+    height: 25px;
+}
+.clear50 {
+    height: 35px;
+}
+.part2 .clear30 {
+    height: 10px;
+}
+.part2 h3, .part2 h1 {
+}
+.part3 .clear50 {
+    height: 40px;
+}
+.part3 p {
+    font-size: 14px;
+    line-height: 17px;
+}
+.echelleh {
+    bottom: -110px;
+}
+.part4 .tem {
+    max-width: 90%;
+    width: auto;
+}
+.part4 .tem p {
+}
+.part4 a {
+    font-size: 12px;
+    text-align: center;
+}
+.part4 .tem img {
+}
+.rondsf {
+    margin: 25px auto 0;
+}
+.three p, .part2 .right p {
+}
+.part5 .face {
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.part5 .bullec {
+}
+h2.coindroit, h1.coindroit {
+    margin: 5px 0;
+}
+.coindroit h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.part6 .zone1 .bullec, .part6 .zone4 .bullec, .part6 .zone5 .bullec, .part6 .zone6 .bullec {
+    margin-bottom: 40px;
+}
+.part7 .clear50, .part4 .clear50 {
+    height: 20px;
+}
+.part7 h2, .part7 h3 {
+    font-size: 25px;
+    line-height: 28px;
+}
+.part7 p {
+    font-size: 15px;
+}
+.number .chiffre, .number .pc {
+    line-height: 40px;
+}
+.rond span.titre {
+    margin: -10px 10% 0;
+}
+.part5b h1.coindroit {
+    font-size: 30px;
+    margin: 20px 10px 0 0;
+}
+.menu {
+    height: auto;
+    margin: -290px 0;
+}
+.menu li {
+    margin-bottom: 10px;
+}
+}
+@media (max-height: 600px) {
+body {
+}
+.part4 .slide {
+    display: none;
+}
+.part1 .partcont {
+    top: 20px;
+}
+.part1 .watch {
+    margin: 40px auto;
+}
+.part1 .logocont {
+    height: 52px;
+    margin: 15px 0 0 20px;
+	width: 250px;
+}
+.part2 .partcont {
+    padding: 10px 2%;
+}
+.part2 h3, .part2 h1 {
+}
+.part3 .clear50 {
+    height: 15px;
+}
+.part3 p {
+    font-size: 15px;
+    line-height: 18px;
+}
+.rondsf {
+    margin: 25px auto 0;
+}
+.ellipse {
+    height: 300px;
+}
+.pen2 {
+    height: 170px;
+}
+.fleche {
+    height: 126px;
+}
+.number {
+    font-size: 35px;
+    line-height: 35px;
+}
+.echelleh {
+    bottom: -100px;
+}
+.clear30 {
+    height: 10px;
+}
+.clear40 {
+    height: 20px;
+}
+.clear50 {
+    height: 30px;
+}
+.part4 .tem p {
+}
+.part4 .partcont a {
+    font-size: 13px;
+    text-align: left;
+}
+.part4 .tem img {
+    max-height: 200px;
+}
+.part5 .face {
+}
+.part5 .zonefront {
+}
+.part5 .zoneoeil {
+}
+.part5 .zonelevre {
+}
+.part5 .bullec {
+}
+.part5 .bulle p {
+    margin: 10px 0 20px;
+}
+.part6 .zone1 .bullec, .part6 .zone4 .bullec, .part6 .zone5 .bullec, .part6 .zone6 .bullec {
+    margin-bottom: 20px;
+}
+.part7 h2, .part7 h3 {
+    font-size: 23px;
+    line-height: 26px;
+}
+.part2 .clear50 {
+    height: 1px;
+}
+.part7 p, .part7 p.soustitre {
+    font-size: 13px;
+}
+.number .chiffre, .number .pc {
+    line-height: 40px;
+}
+.rond span.titre {
+    margin: -16px 10% 0;
+}
+.menu {
+    height: auto;
+    margin: -230px 0;
+}
+.menu li {
+}
+.part7 .pen6 {
+    width: 458px;
+}
+}
+@media (max-width: 1099px) and (min-height: 620px) {
+.part5 .face {
+}
+}
